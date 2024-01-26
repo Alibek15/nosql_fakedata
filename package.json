@@ -1,0 +1,18 @@
+{
+  "name": "nosql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.1.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "faker": "^5.5.3"
+  }
+}
